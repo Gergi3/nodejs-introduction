@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-introduction",
+  "version": "1.0.0",
+  "main": "demo.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lit-html": "^2.2.6",
+    "nodemon": "^2.0.19"
+  },
+  "description": ""
+}
